@@ -6,6 +6,6 @@ $(document).foundation();
 $(document).ready(function(){
   
   // Your Scripts
-  $("div").fitVids();
+  $(".container").fitVids();
 
 });
